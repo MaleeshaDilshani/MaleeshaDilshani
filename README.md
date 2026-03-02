@@ -17,9 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=maleeshadilshani&label=Profile%20views&color=FF69B4&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maleeshadilshani&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
-</p>
 
 ---
 
@@ -79,10 +76,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaleeshaDilshani&show_icons=true&theme=rose_pine" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaleeshaDilshani&layout=compact&theme=rose_pine" height="180em"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maleeshadilshani&theme=rose-pine" />
